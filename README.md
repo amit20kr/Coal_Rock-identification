@@ -1,4 +1,4 @@
-# Physics-Informed Deep Learning for Coal and Gangue Classification
+# Physics-Informed PCViT for Coal and Gangue Classification
 
 > An end-to-end AI pipeline utilizing Near-Infrared (NIR) Spectroscopy and a custom Pyramid Convolutional Vision Transformer (PCViT) to automate lithological sorting in subterranean mining environments.
 
